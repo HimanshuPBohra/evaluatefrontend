@@ -1,4 +1,4 @@
-const serverURL = "http://localhost:8080"
+const serverURL = "http://143.244.136.189:8080"
 const hostname = "https://arham.ai";
 const currencySymbol = "₹";
 const appName = "EvaluateAI - A Arham.ai Product";
